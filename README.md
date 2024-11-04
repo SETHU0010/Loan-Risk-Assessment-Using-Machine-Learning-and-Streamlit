@@ -53,4 +53,4 @@ Your project will be evaluated based on:
 - **Adherence to Requirements**: Following the directory structure and submission guidelines.
 
 ## Contact
-For any questions or issues, please reach out via email at [your-email@example.com] or open an issue in the GitHub repository.
+For any questions or issues, please reach out via email at sethumadhavanvelu2002@gmail.com or open an issue in the GitHub repository.
